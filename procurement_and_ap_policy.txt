@@ -1,0 +1,60 @@
+MERIDIAN FIXTURES INC.
+PROCUREMENT AND ACCOUNTS PAYABLE POLICY
+Effective: March 1, 2026 | Policy Number: FIN-009 | Owner: Controller's Office
+
+1. PURCHASE APPROVAL THRESHOLDS
+1.1 Purchases under $1,000: department manager approval only.
+1.2 Purchases $1,000-$9,999: department manager + Director approval.
+1.3 Purchases $10,000-$49,999: Director + VP approval, and a minimum of two vendor
+    quotes on file.
+1.4 Purchases $50,000 and above: VP + CFO approval, minimum three vendor quotes, and
+    Procurement committee review before a purchase order is issued.
+1.5 Sole-source purchases (only one viable vendor) above $10,000 require a documented
+    sole-source justification memo regardless of the quote requirement in 1.3/1.4.
+
+2. NEW VENDOR SETUP
+2.1 All new vendors must be entered in the vendor master file by Accounts Payable before
+    any invoice can be processed against them.
+2.2 New vendor setup requires a completed W-9 (domestic) or W-8BEN (foreign), a signed
+    vendor agreement, and banking details verified by a callback to a phone number
+    NOT provided in the new vendor's setup email (a fraud-prevention control — banking
+    changes communicated only by email are not to be actioned without independent
+    verification).
+2.3 Vendor master file changes to existing vendor banking details require the same
+    independent callback verification as new vendor setup, regardless of who requests
+    the change or how urgent it is represented to be.
+
+3. INVOICE PROCESSING
+3.1 Standard payment terms are Net 30 from invoice date unless a different term is
+    specified in the vendor agreement.
+3.2 A three-way match (purchase order, receiving confirmation, and invoice) is required
+    before payment for any invoice over $2,500. Invoices under $2,500 may be processed
+    with a two-way match (PO and invoice only).
+3.3 Invoices without a valid PO number will be routed back to the requesting department
+    for a retroactive PO; Accounts Payable will not process a PO-required invoice without
+    one, even with manager approval, except under the emergency purchase provision in 4.1.
+3.4 Duplicate invoice numbers from the same vendor are automatically held by the AP
+    system for manual review and are never auto-paid.
+
+4. EMERGENCY PURCHASES
+4.1 In a genuine operational emergency (e.g., equipment failure halting production), a
+    department Director may authorize an emergency purchase without a prior PO, provided
+    a retroactive PO and written justification are filed with Accounts Payable within
+    3 business days.
+4.2 Emergency purchase authority does NOT exempt the purchase from the approval
+    thresholds in Section 1 — a $60,000 emergency purchase still requires CFO approval,
+    just after the fact rather than before.
+
+5. CREDIT CARD (P-CARD) PURCHASES
+5.1 Individual P-Card transaction limit: $2,500 unless a higher limit is specifically
+    approved by the CFO for a named cardholder.
+5.2 Monthly P-Card statements must be reconciled and coded by the cardholder within
+    10 business days of statement close.
+5.3 P-Cards may not be used for any purchase that would otherwise require the vendor
+    setup process in Section 2 (i.e., cannot be used to bypass new vendor controls).
+
+6. RECORD RETENTION
+6.1 All purchase orders, invoices, and approval records must be retained for 7 years
+    per Finance's document retention schedule, referenced separately in policy FIN-002.
+
+END OF POLICY FIN-009
